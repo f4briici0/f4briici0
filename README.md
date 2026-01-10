@@ -1,16 +1,18 @@
-## Hi there 👋
+👨‍💻 Olá! Eu sou o **Fabricio Ferreira**  
 
-<!--
-**f4briici0/f4briici0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e desenvolvedor **Back-end**, focado em **Java + Spring Boot**, com interesse em segurança, APIs REST e boas práticas de arquitetura.  
+Sou apaixonado por tecnologia e estou sempre buscando evoluir através de projetos práticos e estudos contínuos.
 
-Here are some ideas to get you started:
+🚀 **O que você vai encontrar aqui:**  
+- 🔐 Autenticação e autorização com **Spring Security + JWT**  
+- 🔑 Integração com **Google OAuth2**  
+- 🧩 APIs REST com CRUD, validações e camadas bem definidas  
+- 🗄️ Integração com bancos de dados (JPA / Hibernate)  
+- ⚙️ Projetos voltados para aprendizado real e prática de mercado  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente estou **em busca de uma oportunidade de estágio**, onde eu possa aprender, contribuir e crescer como desenvolvedor.
+
+🌐 **Meu portfólio:**  
+👉 https://portfolio-fabriciof.netlify.app/
+
+📫 Fique à vontade para explorar meus repositórios, dar feedback ou entrar em contato! 🚀
