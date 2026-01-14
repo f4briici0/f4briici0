@@ -1,4 +1,4 @@
-👨‍💻 Olá! Eu sou o **Fabricio Ferreira**  
+👨‍💻 Olá! Eu sou o **Fabricio Ferreira de Lima**  
 
 🎓 Estudante e desenvolvedor **Back-end**, focado em **Java + Spring Boot**, com interesse em segurança, APIs REST e boas práticas de arquitetura.  
 Sou apaixonado por tecnologia e estou sempre buscando evoluir através de projetos práticos e estudos contínuos.
