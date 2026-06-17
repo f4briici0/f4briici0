@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e estou sempre buscando evoluir através de projet
 - 🗄️ Integração com bancos de dados (JPA / Hibernate)  
 - ⚙️ Projetos voltados para aprendizado real e prática de mercado  
 
-🌱 Atualmente estou **em busca de uma oportunidade de ESTÁGIO**, onde eu possa aprender, contribuir e crescer como desenvolvedor.
+🌱 Atualmente estou **em busca de uma oportunidade de emprego**, onde eu possa ingressar na área e assim aprender, contribuir e crescer como desenvolvedor.
 
 🌐 **Meu portfólio:**  
 👉 https://portfolio-fabriciof.netlify.app/
